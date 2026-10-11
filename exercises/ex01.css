@@ -1,0 +1,38 @@
+HTML {background-color: pink; }
+
+A {color: blue}
+A:hover {color:aqua; background-color: purple}
+UL {
+    color:plum;
+}
+
+h1 {
+background-color: blue;
+color: aqua;
+font-weight: normal;
+}
+
+P {
+    background-color: palevioletred;
+    padding: 20px;
+    margin: 20px;
+    font-size: px;
+}
+
+IMG {
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+    width: 50%;
+
+    }
+
+#beyonce {width: 70%;} 
+
+.highlight_01{background-color: turquoise}
+
+.highlight_01 strong {background-color:rgb(240, 79, 106)} 
+
+#main { background-color: rgb(210, 87, 108); padding: 50px; margin: 10px}
+
+#gallery { display:flex; flex-wrap: wrap; }
