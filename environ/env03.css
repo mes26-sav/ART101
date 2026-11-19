@@ -41,3 +41,9 @@ IMG {
     width: 650px;
     border-radius: 20px
 }
+
+#environment-output {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}

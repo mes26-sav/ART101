@@ -1,9 +1,9 @@
 let count = 0;
 
 let buttonCreature = {
-    name: "Magnolia",
-    species: "teeny tiny penguin",
-    favoriteFood: "pho",
+    name: "button entity",
+    species: "teeny tiny click",
+    favoriteFood: "clicks from nice people",
     moods: ["sleepy", "joyous", "glowing", "dramatic", "excited", "confused", "determined"]
 };
 

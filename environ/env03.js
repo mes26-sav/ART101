@@ -9,11 +9,11 @@ let mainEntity = {
     needs: ["food", "warmth"]
 }
 
-$("title-button").click(function() {
-    $("enviornment-output").html(enviornmentTitle);
+$("#title-button").click(function() {
+    $("#environment-output").html(environmentTitle);
 });
 
-$("elements-button").click(function () {
+$("#elements-button").click(function () {
     $("#environment-output").html(environmentElements.join(","));
 });
 
